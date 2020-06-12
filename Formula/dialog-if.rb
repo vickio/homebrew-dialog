@@ -1,9 +1,9 @@
 class DialogIf < Formula
   desc "Domain-specific language for creating works of interactive fiction"
   homepage "https://linusakesson.net/dialog/"
-  url "https://hd0.linusakesson.net/files/dialog-0k03_0_40.zip"
-  version "0k03"
-  sha256 "117bff3b9edc2feefb075203a11fb333ae05ebd67d1c88003f1f8fdf8dad8d64"
+  url "https://hd0.linusakesson.net/files/dialog-0k04_0_41.zip"
+  version "0k04"
+  sha256 "48eb067c835a2a734ba8aa18a58941c001910ba7b0d8a8cdbf031bfff4fe622e"
 
   def install
     chdir "src" do
