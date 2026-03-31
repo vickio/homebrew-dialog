@@ -1,13 +1,12 @@
-This is an unofficial [Homebrew](https://brew.sh) tap for tools related to [Dialog](https://linusakesson.net/dialog/index.php), a domain-specific language for creating works of interactive fiction.
+> ⚠️ **This tap is deprecated.** A community-maintained fork is now available. Please migrate to the new tap:
+> ```
+> brew untap vickio/dialog
+> brew tap dialog-if/brew
+> brew install dialog-if
+> ```
 
-You can install the Dialog compiler and debugger (`dialogc` and `dgdebug`) using this command:
+---
 
-`brew install vickio/dialog/dialog-if`
+This was an unofficial [Homebrew](https://brew.sh) tap for tools related to [Dialog](https://linusakesson.net/dialog/index.php), a domain-specific language for creating works of interactive fiction.
 
-Copies of the Dialog standard library and debug library will be installed to this location:
-
-`/usr/local/share/dialog-if/`
-
-The Dialog documentation will be installed here:
-
-`/usr/local/share/doc/dialog-if/`
+The tap is no longer maintained. Please use the community-maintained tap at [Dialog-IF/homebrew-brew](https://github.com/Dialog-IF/homebrew-brew) instead.
